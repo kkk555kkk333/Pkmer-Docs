@@ -1,6 +1,6 @@
 ---
 uid: 20240111112634
-title: 💡前言
+title: auto-insert-template自动化模板教学
 tags: [💻教程, quickadd]
 description: 
 author: Devol,windilycloud
@@ -10,6 +10,7 @@ editable: false
 modified: 20240111113324
 "created:": 2024-01-09
 ---
+# auto-insert-template自动化模板教学
 
 # 💡前言
 
